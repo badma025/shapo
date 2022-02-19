@@ -7,7 +7,7 @@ function Header() {
     <header className="container py-4 mb-10">
       <nav className="mt-4 sm:mt-12 flex items-center">
         <div className="flex flex-1 items-center sm:gap-12 md:gap-24">
-          <Image src="/Shapo.png " height={26} width={89} alt="" />
+          <img src="/Shapo.png" height={26} width={89} alt="" />
 
           <ul className="hidden gap-8 text-gray-500 sm:text-sm md:text-lg sm:flex sm:-mr-4  md:-mr-14 lg:mr-28">
             <li className="header_bounce">About</li>
